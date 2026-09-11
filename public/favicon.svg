@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Bo the Bear favicon -->
+  <circle cx="32" cy="34" r="26" fill="#D4956B"/>
+  <!-- Ears -->
+  <circle cx="14" cy="14" r="10" fill="#D4956B"/>
+  <circle cx="14" cy="14" r="6" fill="#C27D4A"/>
+  <circle cx="50" cy="14" r="10" fill="#D4956B"/>
+  <circle cx="50" cy="14" r="6" fill="#C27D4A"/>
+  <!-- Face -->
+  <ellipse cx="32" cy="40" rx="14" ry="11" fill="#F0D5B8"/>
+  <!-- Eyes -->
+  <circle cx="23" cy="30" r="4" fill="#2D1B0E"/>
+  <circle cx="41" cy="30" r="4" fill="#2D1B0E"/>
+  <circle cx="24.5" cy="28.5" r="1.5" fill="white"/>
+  <circle cx="42.5" cy="28.5" r="1.5" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="32" cy="37" rx="4" ry="3" fill="#2D1B0E"/>
+  <!-- Smile -->
+  <path d="M26 42 Q32 48 38 42" stroke="#2D1B0E" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
